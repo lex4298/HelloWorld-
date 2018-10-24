@@ -6,6 +6,6 @@ public class HelloWorld {
     }
     private static void HelloWorld(String[] args)
     {
-        helloWorld();
+        helloWorld()
     }
 }
